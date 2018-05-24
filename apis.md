@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/23434-asse
 x-kinRank: "8"
 x-alexaRank: "481064"
 tags: Assertible
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/assertible/master/_listings/assertible/apis.md
 specificationVersion: "0.14"
 apis: []
